@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="79dp"
+        android:src="@drawable/title" />
+
+    <ImageView
+        android:id="@+id/startc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="54dp"
+        android:src="@drawable/start" />
+
+    <ImageView
+        android:id="@+id/aboutit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/howtouse"
+        android:layout_below="@+id/howtouse"
+        android:layout_marginTop="42dp"
+        android:src="@drawable/about" />
+
+    <ImageView
+        android:id="@+id/howtouse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/startc"
+        android:layout_below="@+id/startc"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/how" />
+
+</RelativeLayout>

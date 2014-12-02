@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">虚拟演示系统</string>
+    <string name="app_description">QCAR ImageTargets Sample Application</string>
+    <string name="activity_splash_title">ImageTargets</string>
+    <string name="activity_splash_subtitle">sample application</string>
+    <string name="about_title">茶壶博览会。。</string>
+    <string name="about_text">一个茶壶。。。</string>
+    <string name="button_start">打开摄像头</string>
+    <string name="content_desc_vuforia_logo">Vuforia Logo</string>
+    <string name="content_desc_vuforia_background">Vuforia Background</string>
+    <string name="menu_flash_on">闪光灯/打开</string>
+    <string name="menu_flash_off">闪光灯/关闭</string>
+    <string name="menu_contAutofocus_on">自动调焦/打开</string>
+    <string name="menu_contAutofocus_off">自动调焦/关闭</string>
+    <string name="menu_switch_to_tarmac">转变模型Tarmac</string>
+    <string name="menu_switch_to_stone_chips">转变模型 Stones &amp; Chips</string>
+    <string name="menu_camera_title">选项</string>
+    <string name="aboutmore">关于模型</string>
+
+</resources>
