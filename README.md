@@ -15,8 +15,8 @@
 ![](https://github.com/messyidea/Virtual-demonstration-system/raw/master/about.jpg) <br>
 
 演示：
-![](https://github.com/messyidea/Virtual-demonstration-system/raw/master/1.jpg) <br>
 ![](https://github.com/messyidea/Virtual-demonstration-system/raw/master/2.jpg) <br>
+![](https://github.com/messyidea/Virtual-demonstration-system/raw/master/1.jpg) <br>
 ![](https://github.com/messyidea/Virtual-demonstration-system/raw/master/3.jpg) <br>
 
 *里面还有一个演示视频。。*
